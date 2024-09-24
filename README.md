@@ -17,5 +17,4 @@ Welcome to **Neural Style Transfer**, a project focused on implementing and opti
 
 - **Programming Language**: Python
 - **Framework**: TensorFlow
-- **Notebook**: Google Colab for interactive experimentation
-- **Image Processing**: Utilizes VGG19 pre-trained model for extracting style and content representations.
+- **Image Processing**: Utilizes custom and pre-trained models to extract style and content representations.
