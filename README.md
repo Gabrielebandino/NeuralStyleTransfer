@@ -4,7 +4,9 @@
 [![Contributors](https://img.shields.io/github/contributors/Gabrielebandino/NeuralStyleTransfer)](https://github.com/Gabrielebandino/NeuralStyleTransfer/graphs/contributors)
 [![Issues](https://img.shields.io/github/issues/Gabrielebandino/NeuralStyleTransfer)](https://github.com/Gabrielebandino/NeuralStyleTransfer/issues)
 
-Welcome to **Neural Style Transfer**, a project focused on implementing and optimizing TensorFlow’s approach to combining the artistic style of one image with the content of another. The goal is to explore the interplay between content and style representations through the power of neural networks.
+Welcome to **Neural Style Transfer**, a project focused on implementing and optimizing TensorFlow’s approach to combining the artistic style of one image with the content of another. The goal is to explore the interplay between content and style representations through the power of neural networks.  
+
+If you prefer Colab, [click here to open the notebook](https://colab.research.google.com/drive/13u6rgEEmSqYFvtEhS695nmzz3iRQLdNl?usp=sharing).
 
 ## 🚀 Features
 
